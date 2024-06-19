@@ -1,4 +1,4 @@
-# expense_tracker
+# SpendSage
 
 A new Flutter project.
 
